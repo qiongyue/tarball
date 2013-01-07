@@ -1,7 +1,7 @@
 Tarball
 =======
 - - -
-a GUI tools for creating archives from file path.
+a GUI tools for creating archives from the specify full file path based on project.
 
 Usage
 =======
