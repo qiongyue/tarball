@@ -6,7 +6,7 @@ a GUI tools for creating archives from file path.
 Usage
 =======
 - - - 
-the first three line which start as '#!' is the tool's simple config paramater.Just looks like the following:
+the first three line which start as '#!' is the tools' simple config paramater.Just looks like the following:
 
     #! 程序根目录: F:\www\
     #! 打包存放目录: F:\www\tar\
